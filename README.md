@@ -1,3 +1,5 @@
 # DSA
 
-Please Submit standard algos.
+Please Submit standard algos or standard DSA questions.
+
+.........Happy Hacktoberfest......
